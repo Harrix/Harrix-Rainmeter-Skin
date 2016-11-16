@@ -1,0 +1,43 @@
+[Variables]
+;Colors
+ColorWhite = FFFFFF
+ColorBlack = 000000
+ColorTeal = 19A5A5
+ColorDark = 5F5F5F
+
+;Common
+ColorCommon = #ColorWhite#
+Font = Open Sans
+
+;App Icons
+AppSize = 32
+AppColor = #ColorCommon#
+AppAlpha = 255
+AppX = 10R
+AppY = 10R
+MicrosoftWord = C:\Program Files (x86)\Microsoft Office\Office16\WINWORD.EXE
+MicrosoftExcel = C:\Program Files (x86)\Microsoft Office\Office16\EXCEL.EXE
+MicrosoftOneNote = C:\Program Files (x86)\Microsoft Office\Office16\ONENOTE.EXE
+Photoshop = C:\Program Files\Adobe\Adobe Photoshop CC 2015\Photoshop.exe
+Lightroom = C:\Program Files\Adobe\Adobe Lightroom\lightroom.exe
+Illustrator = C:\Program Files\Adobe\Adobe Illustrator CC 2015\Support Files\Contents\Windows\Illustrator.exe
+FastStoneCapture = C:\Program Files (x86)\FastStone Capture\FSCapture.exe
+SQLite = C:\Dropbox\Programs\PortableSQLliteBrowser\SQLiteDatabaseBrowserPortable.exe
+Qt = C:\Qt\Qt5.8.0_mingw_android\Tools\QtCreator\bin\qtcreator.exe
+QtUnderVisualStudio = C:\Qt\Qt5.8.0\Tools\QtCreator\bin\qtcreator.exe
+VisualStudio = C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\devenv.exe
+Aimp = C:\Program Files (x86)\AIMP\AIMP.exe
+Atom = C:\Users\sensor\AppData\Local\atom\app-1.13.0-beta2\atom.exe
+GitHub = C:\Users\sensor\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\GitHub, Inc\GitHub.appref-ms
+Notepad = C:\Program Files (x86)\Notepad++\notepad++.exe
+KeePass = C:\Dropbox\Programs\KeePass\KeePass.exe
+
+;Clock
+ClockColor = #ColorCommon#
+ClockTranslate = "Monday":"Понедельник", "Tuesday":"Вторник", "Wednesday":"Среда", "Thursday":"Четверг", "Friday":"Пятница", "Saturday":"Суббота", "Sunday":"Воскресенье", "January":"Января", "February":"Февраля", "March":"Марта", "April":"Апреля", "May":"Мая", "June":"Июня", "July":"Июля", "August":"Августа", "September":"Сентября", "October":"Октября", "November":"Ноября", "December":"Декабря"
+
+;Weather
+;Codes to take here: https://weather.codes/
+Location = RSXX0267:1:RS
+WeatherColor = #ColorCommon#
+Language = "ru"
