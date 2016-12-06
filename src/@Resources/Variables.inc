@@ -39,7 +39,7 @@ ClockTranslate = "Monday":"Понедельник", "Tuesday":"Вторник", "Wednesday":"Среда
 ;Weather
 ;Codes to take here: https://weather.codes/
 Location = RSXX0267:1:RS
-WeatherColor = #ColorCommon#
+WeatherUpdate = 5000
 Language = "ru"
 WeatherColor = #ColorCommon#
 WeatherAlpha = 255
