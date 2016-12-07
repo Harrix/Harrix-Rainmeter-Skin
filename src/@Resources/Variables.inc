@@ -51,4 +51,4 @@ WeatherAlpha = 255
 ;WeatherIconsPath = fill_color
 ;WeatherIconsPath = fill_color_white_cloud
 WeatherIconsPath = 
-WeatherTranslate = "Today":"Сегодня", "Tonight":"Ночью", "Feels like":"Как будто"
+WeatherTranslate = "Today":"Сегодня", "Tonight":"Ночью", "Feels like":"Как будто", "Tomorrow":"Завтра", "Monday":"Понедельник", "Tuesday":"Вторник", "Wednesday":"Среда", "Thursday":"Четверг", "Friday":"Пятница", "Saturday":"Суббота", "Sunday":"Воскресенье"
