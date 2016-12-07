@@ -49,3 +49,4 @@ WeatherAlpha = 255
 ;WeatherIconsPath = fill_color
 ;WeatherIconsPath = fill_color_white_cloud
 WeatherIconsPath = 
+WeatherTranslate = "Today":"Сегодня", "Today2":"Сегодня"
