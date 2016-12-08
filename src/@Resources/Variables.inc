@@ -33,7 +33,8 @@ Notepad = C:\Program Files (x86)\Notepad++\notepad++.exe
 KeePass = C:\Dropbox\Programs\KeePass\KeePass.exe
 
 ;Clock
-ClockColor = #ColorCommon#
+ClockTextAlpha = FF
+ClockColor = #ColorCommon##ClockTextAlpha#
 ClockTimeFontSize = 70
 ClockDateFontSize = 14
 ClockTranslate = "Monday":"Понедельник", "Tuesday":"Вторник", "Wednesday":"Среда", "Thursday":"Четверг", "Friday":"Пятница", "Saturday":"Суббота", "Sunday":"Воскресенье", "January":"Января", "February":"Февраля", "March":"Марта", "April":"Апреля", "May":"Мая", "June":"Июня", "July":"Июля", "August":"Августа", "September":"Сентября", "October":"Октября", "November":"Ноября", "December":"Декабря"
@@ -43,8 +44,9 @@ ClockTranslate = "Monday":"Понедельник", "Tuesday":"Вторник", "Wednesday":"Среда
 Location = RSXX0267:1:RS
 WeatherUpdate = 5000
 Language = "ru"
-WeatherColor = #ColorCommon#
 WeatherAlpha = 255
+WeatherTextAlpha = FF
+WeatherColor = #ColorCommon##WeatherTextAlpha#
 ;WeatherIconsPath = color
 ;WeatherIconsPath = color_white_cloud
 ;WeatherIconsPath = fill
