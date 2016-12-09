@@ -59,18 +59,13 @@ WeatherIconSize = 50
 WeatherTranslate = "Now": "Сейчас", "Today":"Сегодня", "Tonight":"Ночью", "Tomorrow":"Завтра", "like":"как", "Monday":"Понедельник", "Tuesday":"Вторник", "Wednesday":"Среда", "Thursday":"Четверг", "Friday":"Пятница", "Saturday":"Суббота", "Sunday":"Воскресенье"
 
 ;Calendar
-FontColor = 255,255,255,255
-FontFace = Open Sans
 FontSize = 10
-BarColor = 220,220,220,255
-BarSolidColor = 0,0,0,70
-LineColor = 250,250,250,200
 WeekStartsMonday = 1
-VolumeIncrement = 5
+FontAlpha = 255
 
 [Style1]
-FontColor = #FontColor#
-FontFace = #FontFace#
+FontColor = #ColorCommon#,#FontAlpha#
+FontFace = #Font#
 FontSize = #FontSize#
 StringStyle = Normal
 AntiAlias = 1
