@@ -59,34 +59,30 @@ WeatherIconSize = 50
 WeatherTranslate = "Now": "Сейчас", "Today":"Сегодня", "Tonight":"Ночью", "Tomorrow":"Завтра", "like":"как", "Monday":"Понедельник", "Tuesday":"Вторник", "Wednesday":"Среда", "Thursday":"Четверг", "Friday":"Пятница", "Saturday":"Суббота", "Sunday":"Воскресенье"
 
 ;Calendar
-BGSolidColor=0,0,0,70
-FontColor=255,255,255,255
-FontFace=Segoe UI
-FontSize=10
-BarColor=220,220,220,255
-BarSolidColor=0,0,0,70
-LineColor=250,250,250,200
-WeekStartsMonday=1
-VolumeIncrement=5
+BGSolidColor = 0,0,0,70
+FontColor = 255,255,255,255
+FontFace = Segoe UI
+FontSize = 10
+BarColor = 220,220,220,255
+BarSolidColor = 0,0,0,70
+LineColor = 250,250,250,200
+WeekStartsMonday = 1
+VolumeIncrement = 5
 
 [Style1]
-FontColor=#FontColor#
-FontFace=#FontFace#
-FontSize=#FontSize#
-StringAlign=Left
-StringStyle=Normal
-AntiAlias=1
-DynamicVariables=1
-
-; Image Style
+FontColor = #FontColor#
+FontFace = #FontFace#
+FontSize = #FontSize#
+StringAlign = Left
+StringStyle = Normal
+AntiAlias = 1
+DynamicVariables = 1
 
 [Style2]
-AntiAlias=1
-DynamicVariables=1
-
-; Bar style
+AntiAlias = 1
+DynamicVariables = 1
 
 [Style3]
-BarColor=#BarColor#
-SolidColor=#BarSolidColor#
-Linecolor=#Linecolor#
+BarColor = #BarColor#
+SolidColor = #BarSolidColor#
+Linecolor = #Linecolor#
