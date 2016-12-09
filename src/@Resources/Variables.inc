@@ -1,9 +1,9 @@
 [Variables]
 ;Colors
-ColorWhite = FFFFFF
-ColorBlack = 000000
-ColorTeal = 19A5A5
-ColorDark = 5F5F5F
+ColorWhite = 255,255,255
+ColorBlack = 0,0,0
+ColorTeal = 25,165,165
+ColorDark = 95,95,95
 
 ;Common
 ColorCommon = #ColorWhite#
@@ -11,8 +11,8 @@ Font = Open Sans
 
 ;App Icons
 AppSize = 32
-AppColor = #ColorCommon#
 AppAlpha = 255
+AppColor = #ColorCommon#
 AppX = 10R
 AppY = 10R
 MicrosoftWord = C:\Program Files (x86)\Microsoft Office\Office16\WINWORD.EXE
@@ -33,8 +33,8 @@ Notepad = C:\Program Files (x86)\Notepad++\notepad++.exe
 KeePass = C:\Dropbox\Programs\KeePass\KeePass.exe
 
 ;Clock
-ClockTextAlpha = FF
-ClockColor = #ColorCommon##ClockTextAlpha#
+ClockTextAlpha = 255
+ClockColor = #ColorCommon#,#ClockTextAlpha#
 ClockTimeFontSize = 70
 ClockDateFontSize = 14
 ClockTranslate = "Monday":"Понедельник", "Tuesday":"Вторник", "Wednesday":"Среда", "Thursday":"Четверг", "Friday":"Пятница", "Saturday":"Суббота", "Sunday":"Воскресенье", "January":"Января", "February":"Февраля", "March":"Марта", "April":"Апреля", "May":"Мая", "June":"Июня", "July":"Июля", "August":"Августа", "September":"Сентября", "October":"Октября", "November":"Ноября", "December":"Декабря"
@@ -45,8 +45,7 @@ Location = RSXX0267:1:RS
 WeatherUpdate = 5000
 Language = "ru"
 WeatherAlpha = 255
-WeatherTextAlpha = FF
-WeatherColor = #ColorCommon##WeatherTextAlpha#
+WeatherColor = #ColorCommon#,#WeatherAlpha#
 ;WeatherIconsPath = color
 ;WeatherIconsPath = color_white_cloud
 ;WeatherIconsPath = fill
