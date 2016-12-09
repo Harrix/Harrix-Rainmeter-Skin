@@ -76,12 +76,3 @@ StringAlign = Left
 StringStyle = Normal
 AntiAlias = 1
 DynamicVariables = 1
-
-[Style2]
-AntiAlias = 1
-DynamicVariables = 1
-
-[Style3]
-BarColor = #BarColor#
-SolidColor = #BarSolidColor#
-Linecolor = #Linecolor#
