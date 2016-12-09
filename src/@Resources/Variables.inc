@@ -59,9 +59,8 @@ WeatherIconSize = 50
 WeatherTranslate = "Now": "Сейчас", "Today":"Сегодня", "Tonight":"Ночью", "Tomorrow":"Завтра", "like":"как", "Monday":"Понедельник", "Tuesday":"Вторник", "Wednesday":"Среда", "Thursday":"Четверг", "Friday":"Пятница", "Saturday":"Суббота", "Sunday":"Воскресенье"
 
 ;Calendar
-BGSolidColor = 0,0,0,70
 FontColor = 255,255,255,255
-FontFace = Segoe UI
+FontFace = Open Sans
 FontSize = 10
 BarColor = 220,220,220,255
 BarSolidColor = 0,0,0,70
