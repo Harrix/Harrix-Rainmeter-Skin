@@ -60,7 +60,7 @@ WeatherTranslate = "Now": "Сейчас", "Today":"Сегодня", "Tonight":"Ночью", "Tomor
 
 ;Calendar
 FontSize = 10
-WeekStartsMonday = 1
+CalendarWeekStartsMonday = 1
 FontAlpha = 255
 
 [Style1]
