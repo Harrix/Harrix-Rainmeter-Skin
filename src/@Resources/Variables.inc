@@ -61,10 +61,10 @@ WeatherTranslate = "Now": "Сейчас", "Today":"Сегодня", "Tonight":"Ночью", "Tomor
 ;Calendar
 FontSize = 10
 CalendarWeekStartsMonday = 1
-FontAlpha = 255
+CalendarFontAlpha = 255
 
 [Style1]
-FontColor = #ColorCommon#,#FontAlpha#
+FontColor = #ColorCommon#,#CalendarFontAlpha#
 FontFace = #Font#
 FontSize = #FontSize#
 StringStyle = Normal
