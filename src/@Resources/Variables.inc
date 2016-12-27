@@ -22,15 +22,15 @@ Photoshop = C:\Program Files\Adobe\Adobe Photoshop CC 2015\Photoshop.exe
 Lightroom = C:\Program Files\Adobe\Adobe Lightroom\lightroom.exe
 Illustrator = C:\Program Files\Adobe\Adobe Illustrator CC 2015\Support Files\Contents\Windows\Illustrator.exe
 FastStoneCapture = C:\Program Files (x86)\FastStone Capture\FSCapture.exe
-SQLite = C:\Dropbox\Programs\PortableSQLliteBrowser\SQLiteDatabaseBrowserPortable.exe
+SQLite = C:\Harrix\Dropbox\Programs\PortableSQLliteBrowser\SQLiteDatabaseBrowserPortable.exe
 Qt = C:\Qt\Qt5.8.0_mingw_android\Tools\QtCreator\bin\qtcreator.exe
 QtUnderVisualStudio = C:\Qt\Qt5.8.0\Tools\QtCreator\bin\qtcreator.exe
 VisualStudio = C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\devenv.exe
 Aimp = C:\Program Files (x86)\AIMP\AIMP.exe
-Atom = C:\Users\sensor\AppData\Local\atom\app-1.13.0-beta2\atom.exe
+Atom = C:\Users\sensor\AppData\Local\atom\app-1.13.0-beta6\atom.exe
 GitHub = C:\Users\sensor\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\GitHub, Inc\GitHub.appref-ms
 Notepad = C:\Program Files (x86)\Notepad++\notepad++.exe
-KeePass = C:\Dropbox\Programs\KeePass\KeePass.exe
+KeePass = C:\Harrix\Dropbox\Programs\KeePass\KeePass.exe
 
 ;Clock
 ClockTextAlpha = 255
