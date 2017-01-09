@@ -6,7 +6,7 @@ ColorTeal = 25,165,165
 ColorDark = 95,95,95
 
 ;Common
-ColorCommon = #ColorBlack#
+ColorCommon = #ColorWhite#
 Font = Open Sans
 
 ;App Icons
@@ -64,7 +64,7 @@ CalendarTodayColor = #ColorCommon#
 CalendarTodayAlpha = 70
 CalendarNotCurrentMonthAlpha = 100
 CalendarFontAlpha = 255
-FontSize = 10
+CalendarFontSize = 10
 CalendarWeekStartsMonday = 1
 CalendarCellWidth = 20
 CalendarCellHeight = 20
@@ -90,11 +90,17 @@ September = Сентябрь
 October = Октябрь
 November = Ноябрь
 December = Декабрь
+
+;Information
+InfoColor = #ColorCommon#
+InfoFontAlpha = 255
+InfoFontSize = 10
+
 ;CalendarStyle
 [CalendarStyle]
 FontColor = #CalendarColor#,#CalendarFontAlpha#
 FontFace = #Font#
-FontSize = #FontSize#
+FontSize = #CalendarFontSize#
 StringStyle = Normal
 AntiAlias = 1
 DynamicVariables = 1
@@ -104,11 +110,11 @@ H = #CalendarCellHeight#
 X = (#CalendarCellWidth# + #CalendarHorizontalSpace#)r
 Y = r
 
-;Info
-[Style1]
-FontColor = #CalendarColor#,#CalendarFontAlpha#
+;InfoStyle
+[InfoStyle]
+FontColor = #InfoColor#,#InfoFontAlpha#
 FontFace = #Font#
-FontSize = #FontSize#
+FontSize = #InfoFontSize#
 StringAlign = Left
 StringStyle = Normal
 AntiAlias = 1
