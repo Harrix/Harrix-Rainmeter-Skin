@@ -95,6 +95,9 @@ December = Декабрь
 InfoColor = #ColorCommon#
 InfoFontAlpha = 255
 InfoFontSize = 10
+InfoTranslate = "cores":"ядра"
+InfoWidth = 220
+InfoHeight = 70
 
 ;CalendarStyle
 [CalendarStyle]
