@@ -62,11 +62,11 @@ WeatherTranslate = "Now": "Сейчас", "Today":"Сегодня", "Tonight":"Ночью", "Tomor
 FontSize = 10
 CalendarWeekStartsMonday = 1
 CalendarFontAlpha = 255
-;CalendarCellWidth = 20
-;CalendarCellHeight = 20
-;CalendarVerticalSpace = 0
-;CalendarHorizontalSpace = 10
-;CalendarTranslate
+CalendarCellWidth = 20
+CalendarCellHeight = 20
+CalendarVerticalSpace = 0
+CalendarHorizontalSpace = 10
+CalendarTranslate
 Mon = ПН
 Tue = ВТ
 Wed = СР
@@ -86,8 +86,8 @@ September = Сентябрь
 October = Октябрь
 November = Ноябрь
 December = Декабрь
-
-[Style1]
+;CalendarStyle
+[CalendarStyle]
 FontColor = #ColorCommon#,#CalendarFontAlpha#
 FontFace = #Font#
 FontSize = #FontSize#
@@ -95,7 +95,7 @@ StringStyle = Normal
 AntiAlias = 1
 DynamicVariables = 1
 StringAlign=Right
-W=#CellWidth#
-H=#CellHeight#
-X=(#CellWidth#+#HorizontalSpace#)r
-Y=r
+W = #CalendarCellWidth#
+H = #CalendarCellHeight#
+X = (#CalendarCellWidth# + #CalendarHorizontalSpace#)r
+Y = r
