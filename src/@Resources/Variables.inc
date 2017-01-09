@@ -6,7 +6,7 @@ ColorTeal = 25,165,165
 ColorDark = 95,95,95
 
 ;Common
-ColorCommon = #ColorDark#
+ColorCommon = #ColorBlack#
 Font = Open Sans
 
 ;App Icons
@@ -60,7 +60,7 @@ WeatherTranslate = "Now": "Сейчас", "Today":"Сегодня", "Tonight":"Ночью", "Tomor
 
 ;Calendar
 CalendarColor = #ColorCommon#
-CalendarTodayColor = #ColorTeal#
+CalendarTodayColor = #ColorCommon#
 CalendarTodayAlpha = 70
 CalendarNotCurrentMonthAlpha = 100
 CalendarFontAlpha = 255
