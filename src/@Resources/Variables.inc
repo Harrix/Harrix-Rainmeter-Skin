@@ -6,7 +6,7 @@ ColorTeal = 25,165,165
 ColorDark = 95,95,95
 
 ;Common
-ColorCommon = #ColorWhite#
+ColorCommon = #ColorDark#
 Font = Open Sans
 
 ;App Icons
@@ -62,6 +62,30 @@ WeatherTranslate = "Now": "Сейчас", "Today":"Сегодня", "Tonight":"Ночью", "Tomor
 FontSize = 10
 CalendarWeekStartsMonday = 1
 CalendarFontAlpha = 255
+;CalendarCellWidth = 20
+;CalendarCellHeight = 20
+;CalendarVerticalSpace = 0
+;CalendarHorizontalSpace = 10
+;CalendarTranslate
+Mon = ПН
+Tue = ВТ
+Wed = СР
+Thu = ЧТ
+Fri = ПТ
+Sat = СБ
+Sun = ВС
+January = Январь
+February = Февраль
+March = Март
+April = Апрель
+May = Май
+June = Июнь
+July = Июль
+August = Август
+September = Сентябрь
+October = Октябрь
+November = Ноябрь
+December = Декабрь
 
 [Style1]
 FontColor = #ColorCommon#,#CalendarFontAlpha#
