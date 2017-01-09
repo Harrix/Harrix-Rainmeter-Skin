@@ -103,3 +103,13 @@ W = #CalendarCellWidth#
 H = #CalendarCellHeight#
 X = (#CalendarCellWidth# + #CalendarHorizontalSpace#)r
 Y = r
+
+;Info
+[Style1]
+FontColor = #CalendarColor#,#CalendarFontAlpha#
+FontFace = #Font#
+FontSize = #FontSize#
+StringAlign = Left
+StringStyle = Normal
+AntiAlias = 1
+DynamicVariables = 1
