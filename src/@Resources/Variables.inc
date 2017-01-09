@@ -59,14 +59,18 @@ WeatherIconSize = 50
 WeatherTranslate = "Now": "Сейчас", "Today":"Сегодня", "Tonight":"Ночью", "Tomorrow":"Завтра", "like":"как", "Monday":"Понедельник", "Tuesday":"Вторник", "Wednesday":"Среда", "Thursday":"Четверг", "Friday":"Пятница", "Saturday":"Суббота", "Sunday":"Воскресенье"
 
 ;Calendar
+CalendarColor = #ColorCommon#
+CalendarTodayColor = #ColorTeal#
+CalendarTodayAlpha = 70
+CalendarNotCurrentMonthAlpha = 100
+CalendarFontAlpha = 255
 FontSize = 10
 CalendarWeekStartsMonday = 1
-CalendarFontAlpha = 255
 CalendarCellWidth = 20
 CalendarCellHeight = 20
 CalendarVerticalSpace = 0
 CalendarHorizontalSpace = 10
-CalendarTranslate
+;CalendarTranslate
 Mon = ПН
 Tue = ВТ
 Wed = СР
@@ -88,7 +92,7 @@ November = Ноябрь
 December = Декабрь
 ;CalendarStyle
 [CalendarStyle]
-FontColor = #ColorCommon#,#CalendarFontAlpha#
+FontColor = #CalendarColor#,#CalendarFontAlpha#
 FontFace = #Font#
 FontSize = #FontSize#
 StringStyle = Normal
