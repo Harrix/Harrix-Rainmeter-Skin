@@ -96,7 +96,7 @@ InfoColor = #ColorCommon#
 InfoFontAlpha = 255
 InfoFontSize = 10
 InfoTranslate = "cores":"ядра"
-InfoWidth = 220
+InfoWidth = 100
 InfoHeight = 70
 
 ;CalendarStyle
