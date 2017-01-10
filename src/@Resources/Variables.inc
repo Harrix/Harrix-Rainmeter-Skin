@@ -107,6 +107,7 @@ InfoFontSizeLarge = 14
 BackgroundColor = #ColorBlack#
 BackgroundAlpha = 70
 BackgroundVerticalWidth = 470
+BackgroundVerticalAppWidth = 60
 BackgroundHorizontalHeight = 200
 
 ;CalendarStyle
