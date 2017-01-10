@@ -13,8 +13,8 @@ Font = Open Sans
 AppSize = 32
 AppAlpha = 255
 AppColor = #ColorCommon#
-AppX = 10R
-AppY = 10R
+AppX = 10
+AppY = 10
 MicrosoftWord = C:\Program Files (x86)\Microsoft Office\Office16\WINWORD.EXE
 MicrosoftExcel = C:\Program Files (x86)\Microsoft Office\Office16\EXCEL.EXE
 MicrosoftOneNote = C:\Program Files (x86)\Microsoft Office\Office16\ONENOTE.EXE
@@ -107,7 +107,7 @@ InfoFontSizeLarge = 14
 BackgroundColor = #ColorBlack#
 BackgroundAlpha = 70
 BackgroundVerticalWidth = 470
-BackgroundVerticalAppWidth = 60
+BackgroundVerticalAppWidth = 55
 BackgroundHorizontalHeight = 200
 
 ;CalendarStyle
