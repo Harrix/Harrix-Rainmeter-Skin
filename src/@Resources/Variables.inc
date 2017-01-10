@@ -109,6 +109,11 @@ BackgroundAlpha = 70
 BackgroundVerticalWidth = 470
 BackgroundVerticalAppWidth = 55
 BackgroundHorizontalHeight = 200
+BackgroundCircleColor = #ColorBlack#
+BackgroundCircleAlpha = 70
+BackgroundCircleSize = 500
+BackgroundCircle2Size = 300
+BackgroundCircle3Size = 200
 
 ;CalendarStyle
 [CalendarStyle]
