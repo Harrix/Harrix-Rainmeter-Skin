@@ -91,13 +91,17 @@ October = ќкт€брь
 November = Ќо€брь
 December = ƒекабрь
 
-;Information
+;Info
 InfoColor = #ColorCommon#
 InfoFontAlpha = 255
 InfoFontSize = 10
 InfoTranslate = "cores":"€дра"
-InfoWidth = 100
-InfoHeight = 70
+InfoCPURAMUptimeWidth = 220
+InfoCPURAMUptimeHeight = 70
+InfoCPURAMUptimeLineHeight = 20
+InfoCPURAMLineHeight = 20
+InfoCPURAMLineHeightLarge = 25
+InfoFontSizeLarge = 14
 
 ;CalendarStyle
 [CalendarStyle]
