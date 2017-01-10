@@ -103,6 +103,12 @@ InfoCPURAMLineHeight = 20
 InfoCPURAMLineHeightLarge = 25
 InfoFontSizeLarge = 14
 
+;Background
+BackgroundColor = #ColorBlack#
+BackgroundAlpha = 70
+BackgroundVerticalWidth = 470
+BackgroundHorizontalHeight = 200
+
 ;CalendarStyle
 [CalendarStyle]
 FontColor = #CalendarColor#,#CalendarFontAlpha#
