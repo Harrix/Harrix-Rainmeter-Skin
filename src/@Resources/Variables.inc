@@ -33,6 +33,7 @@ Atom = C:\Users\sensor\AppData\Local\atom\app-1.13.0-beta6\atom.exe
 GitHub = C:\Users\sensor\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\GitHub, Inc\GitHub.appref-ms
 Notepad = C:\Program Files (x86)\Notepad++\notepad++.exe
 KeePass = C:\Harrix\Dropbox\Programs\KeePass\KeePass.exe
+TotalCommander = C:\Total Commander\TOTALCMD.EXE
 
 ;Clock
 ClockTextAlpha = 255
