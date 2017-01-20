@@ -34,6 +34,7 @@ GitHub = C:\Users\sensor\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\G
 Notepad = C:\Program Files (x86)\Notepad++\notepad++.exe
 KeePass = C:\Harrix\Dropbox\Programs\KeePass\KeePass.exe
 TotalCommander = C:\Total Commander\TOTALCMD.EXE
+MyComputer = Shell:::{20D04FE0-3AEA-1069-A2D8-08002B30309D}
 
 ;Clock
 ClockTextAlpha = 255
@@ -41,6 +42,9 @@ ClockColor = #ColorCommon#,#ClockTextAlpha#
 ClockTimeFontSize = 70
 ClockDateFontSize = 14
 ClockTranslate = "Monday":"Понедельник", "Tuesday":"Вторник", "Wednesday":"Среда", "Thursday":"Четверг", "Friday":"Пятница", "Saturday":"Суббота", "Sunday":"Воскресенье", "January":"Января", "February":"Февраля", "March":"Марта", "April":"Апреля", "May":"Мая", "June":"Июня", "July":"Июля", "August":"Августа", "September":"Сентября", "October":"Октября", "November":"Ноября", "December":"Декабря"
+ClockDialPath = #ROOTCONFIGPATH#@Resources\Clock Dials
+ClockDialFileName = Clock dial 14.png
+ClockDialSize = 128
 
 ;Weather
 ;Codes to take here: https://weather.codes/
