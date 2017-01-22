@@ -2,8 +2,9 @@
 ;Colors
 ColorWhite = 255,255,255
 ColorBlack = 0,0,0
-ColorTeal = 25,165,165
-ColorDark = 95,95,95
+ColorDark = 40,40,40
+AlphaTransparentForDark = 190
+AlphaTransparentForWhite = 100
 
 ;Common
 ColorCommon = #ColorWhite#
