@@ -74,6 +74,7 @@ CalendarColor = #ColorCommon#
 CalendarTodayColor = #ColorCommon#
 CalendarTodayAlpha = 70
 CalendarNotCurrentMonthAlpha = 100
+CalendarCurrentMonthAlpha = 255
 CalendarFontAlpha = 255
 CalendarFontSize = 10
 CalendarWeekStartsMonday = 1
