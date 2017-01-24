@@ -80,8 +80,10 @@ CalendarFontSize = 10
 CalendarWeekStartsMonday = 1
 CalendarCellWidth = 20
 CalendarCellHeight = 20
-CalendarVerticalSpace = 0
 CalendarHorizontalSpace = 10
+CalendarBackgroundWidth = 220
+CalendarWeekdaySpace = 25
+CalendarWeekdaySpaceAfter = 20
 ;CalendarTranslate
 Mon = ом
 Tue = бр
