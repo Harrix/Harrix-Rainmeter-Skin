@@ -125,9 +125,8 @@ BackgroundVerticalAppWidth = 55
 BackgroundHorizontalHeight = 200
 BackgroundCircleColor = #ColorBlack#
 BackgroundCircleAlpha = 70
-BackgroundCircleSize = 500
-BackgroundCircle2Size = 300
-BackgroundCircle3Size = 200
+BackgroundCircleSize = 300
+BackgroundCirclePath = #ROOTCONFIGPATH#@Resources\Circle
 
 ;CalendarStyle
 [CalendarStyle]
