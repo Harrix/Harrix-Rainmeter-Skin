@@ -57,6 +57,7 @@ WeatherUpdate = 5000
 Language = "ru"
 WeatherAlpha = 255
 WeatherColor = #ColorCommon#,#WeatherAlpha#
+WeatherIconColor = #WeatherColor#
 ;WeatherIconsPath = color
 ;WeatherIconsPath = color_white_cloud
 ;WeatherIconsPath = fill
