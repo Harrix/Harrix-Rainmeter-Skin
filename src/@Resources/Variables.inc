@@ -45,6 +45,7 @@ Qt = C:\Qt\Qt5.8.0_mingw_android\Tools\QtCreator\bin\qtcreator.exe
 QtUnderVisualStudio = C:\Qt\Qt5.8.0\Tools\QtCreator\bin\qtcreator.exe
 SQLite = C:\Harrix\Dropbox\Programs\PortableSQLliteBrowser\SQLiteDatabaseBrowserPortable.exe
 TotalCommander = C:\Total Commander\TOTALCMD.EXE
+MicrosoftAccess = C:\Program Files (x86)\Microsoft Office\Office16\MSACCESS.EXE
 VisualStudio = C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\devenv.exe
 
 ;Clock
