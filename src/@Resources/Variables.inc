@@ -55,6 +55,7 @@ ClockDialSize = 128
 Location = RSXX0267:1:RS
 WeatherUpdate = 5000
 Language = "ru"
+LanguageSite = "ru-RU"
 WeatherAlpha = 255
 WeatherColor = #ColorCommon#,#WeatherAlpha#
 WeatherIconColor = #WeatherColor#
