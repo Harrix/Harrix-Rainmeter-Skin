@@ -20,6 +20,7 @@ AppX = 10
 AppY = 10
 
 AdobeAfterEffects = C:\Program Files\Adobe\Adobe After Effects CC 2015\Support Files\AfterFX.exe
+AdobeAudition = 
 AdobeIllustrator = C:\Program Files\Adobe\Adobe Illustrator CC 2015\Support Files\Contents\Windows\Illustrator.exe
 AdobeLightroom = C:\Program Files\Adobe\Adobe Lightroom\lightroom.exe
 AdobePhotoshop = C:\Program Files\Adobe\Adobe Photoshop CC 2015\Photoshop.exe
