@@ -29,6 +29,7 @@ AdobeInDesign = C:\Program Files\Adobe\Adobe InDesign CC 2015\InDesign.exe
 AdobeLightroom = C:\Program Files\Adobe\Adobe Lightroom\lightroom.exe
 AdobePhotoshop = C:\Program Files\Adobe\Adobe Photoshop CC 2015\Photoshop.exe
 AdobePremierePro = C:\Program Files\Adobe\Adobe Premiere Pro CC 2015\Adobe Premiere Pro.exe
+AndroidStudio = C:\Android\Android Studio\bin\studio64.exe
 Aimp = C:\Program Files (x86)\AIMP\AIMP.exe
 Atom = C:\Users\sensor\AppData\Local\atom\app-1.13.0-beta6\atom.exe
 FastStoneCapture = C:\Program Files (x86)\FastStone Capture\FSCapture.exe
