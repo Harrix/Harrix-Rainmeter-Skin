@@ -48,6 +48,8 @@ TotalCommander = C:\Total Commander\TOTALCMD.EXE
 MicrosoftAccess = C:\Program Files (x86)\Microsoft Office\Office16\MSACCESS.EXE
 VisualStudio = C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\devenv.exe
 MicrosoftOutlook = 
+MicrosoftPublisher = 
+MicrosoftVisio = 
 MicrosoftPowerPoint = C:\Program Files (x86)\Microsoft Office\Office16\POWERPNT.EXE
 
 ;Clock
