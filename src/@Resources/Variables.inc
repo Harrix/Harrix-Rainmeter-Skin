@@ -24,6 +24,7 @@ AdobeAudition =
 AdobeBridge = C:\Program Files\Adobe\Adobe Bridge CC (64 Bit)\Bridge.exe
 AdobeDreamweaver = 
 AdobeFlashProfessional = 
+AdobeInDesign = C:\Program Files\Adobe\Adobe InDesign CC 2015\InDesign.exe
 AdobeIllustrator = C:\Program Files\Adobe\Adobe Illustrator CC 2015\Support Files\Contents\Windows\Illustrator.exe
 AdobeLightroom = C:\Program Files\Adobe\Adobe Lightroom\lightroom.exe
 AdobePhotoshop = C:\Program Files\Adobe\Adobe Photoshop CC 2015\Photoshop.exe
