@@ -54,6 +54,7 @@ MicrosoftPowerPoint = C:\Program Files (x86)\Microsoft Office\Office16\POWERPNT.
 Skype = C:\Program Files (x86)\Skype\Phone\Skype.exe
 Skyrim = C:\Program Files (x86)\Steam\steamapps\common\Skyrim\SkyrimLauncher.exe
 Steam = C:\Program Files (x86)\Steam\Steam.exe
+uTorrent = C:\Users\sensor\AppData\Roaming\uTorrent\uTorrent.exe
 
 ;Clock
 ClockTextAlpha = 255
