@@ -18,24 +18,25 @@ AppColor = #ColorCommon#
 AppIconName = icon_color.png
 AppX = 10
 AppY = 10
-MicrosoftWord = C:\Program Files (x86)\Microsoft Office\Office16\WINWORD.EXE
-MicrosoftExcel = C:\Program Files (x86)\Microsoft Office\Office16\EXCEL.EXE
-MicrosoftOneNote = C:\Program Files (x86)\Microsoft Office\Office16\ONENOTE.EXE
-AdobePhotoshop = C:\Program Files\Adobe\Adobe Photoshop CC 2015\Photoshop.exe
-AdobeLightroom = C:\Program Files\Adobe\Adobe Lightroom\lightroom.exe
+
+AdobeAfterEffects = C:\Program Files\Adobe\Adobe After Effects CC 2015\Support Files\AfterFX.exe
 AdobeIllustrator = C:\Program Files\Adobe\Adobe Illustrator CC 2015\Support Files\Contents\Windows\Illustrator.exe
-FastStoneCapture = C:\Program Files (x86)\FastStone Capture\FSCapture.exe
-SQLite = C:\Harrix\Dropbox\Programs\PortableSQLliteBrowser\SQLiteDatabaseBrowserPortable.exe
-Qt = C:\Qt\Qt5.8.0_mingw_android\Tools\QtCreator\bin\qtcreator.exe
-QtUnderVisualStudio = C:\Qt\Qt5.8.0\Tools\QtCreator\bin\qtcreator.exe
-VisualStudio = C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\devenv.exe
+AdobeLightroom = C:\Program Files\Adobe\Adobe Lightroom\lightroom.exe
+AdobePhotoshop = C:\Program Files\Adobe\Adobe Photoshop CC 2015\Photoshop.exe
 Aimp = C:\Program Files (x86)\AIMP\AIMP.exe
 Atom = C:\Users\sensor\AppData\Local\atom\app-1.13.0-beta6\atom.exe
+FastStoneCapture = C:\Program Files (x86)\FastStone Capture\FSCapture.exe
 GitHub = C:\Users\sensor\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\GitHub, Inc\GitHub.appref-ms
-Notepad = C:\Program Files (x86)\Notepad++\notepad++.exe
 KeePass = C:\Harrix\Dropbox\Programs\KeePass\KeePass.exe
+MicrosoftExcel = C:\Program Files (x86)\Microsoft Office\Office16\EXCEL.EXE
+MicrosoftOneNote = C:\Program Files (x86)\Microsoft Office\Office16\ONENOTE.EXE
+MicrosoftWord = C:\Program Files (x86)\Microsoft Office\Office16\WINWORD.EXE
+Notepad = C:\Program Files (x86)\Notepad++\notepad++.exe
+Qt = C:\Qt\Qt5.8.0_mingw_android\Tools\QtCreator\bin\qtcreator.exe
+QtUnderVisualStudio = C:\Qt\Qt5.8.0\Tools\QtCreator\bin\qtcreator.exe
+SQLite = C:\Harrix\Dropbox\Programs\PortableSQLliteBrowser\SQLiteDatabaseBrowserPortable.exe
 TotalCommander = C:\Total Commander\TOTALCMD.EXE
-MyComputer = Shell:::{20D04FE0-3AEA-1069-A2D8-08002B30309D}
+VisualStudio = C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\devenv.exe
 
 ;Clock
 ClockTextAlpha = 255
