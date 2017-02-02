@@ -53,6 +53,7 @@ MicrosoftVisio =
 MicrosoftPowerPoint = C:\Program Files (x86)\Microsoft Office\Office16\POWERPNT.EXE
 Skype = C:\Program Files (x86)\Skype\Phone\Skype.exe
 Skyrim = C:\Program Files (x86)\Steam\steamapps\common\Skyrim\SkyrimLauncher.exe
+Steam = C:\Program Files (x86)\Steam\Steam.exe
 
 ;Clock
 ClockTextAlpha = 255
