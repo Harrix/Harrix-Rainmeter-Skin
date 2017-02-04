@@ -246,3 +246,4 @@ FontSize = #InfoFontSize#
 StringAlign = Left
 StringStyle = Normal
 AntiAlias = 1
+DynamicVariables = 1
