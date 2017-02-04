@@ -1,3 +1,0 @@
-!|Important|fa-exclamation
-?|Questionable|fa-question
-+|Done|fa-check-square-o
