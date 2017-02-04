@@ -149,12 +149,9 @@ BackgroundCircleAlpha = 70
 BackgroundCircleSize = 300
 BackgroundCirclePath = #ROOTCONFIGPATH#@Resources\Circle
 
-; Widget colors in RGB format (not RGBA or hex)
-DefaultColor=255,255,255
-PlayerColor=#DefaultColor#
-ImportantNoteColor=255,128,128
-QuestionableNoteColor=255,255,128
-DoneNoteColor=128,255,128
+;Player
+PlayerColor = #ColorCommon#
+
 PlayerWMax=580
 PlayerHMax=160
 PlayerCorners=square
