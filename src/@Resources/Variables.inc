@@ -150,6 +150,7 @@ BackgroundCircleSize = 300
 BackgroundCirclePath = #ROOTCONFIGPATH#@Resources\Circle
 
 ;Player
+PlayerName = AIMP
 PlayerColor = #ColorCommon#
 
 PlayerWMax=580
@@ -157,9 +158,6 @@ PlayerHMax=160
 PlayerCorners=square
 PlayerPosition=top_right
 PlayerMini=1
-NoteRefreshTime=5
-NoteNoTitlePlaceholder=~~~
-PlayerName=AIMP
 OpacityMain=255
 OpacityButton=128
 OpacityInactive=48
