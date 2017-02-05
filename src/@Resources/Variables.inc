@@ -152,6 +152,7 @@ BackgroundCirclePath = #ROOTCONFIGPATH#@Resources\Circle
 ;Player
 PlayerName = AIMP
 PlayerColor = #ColorCommon#
+PlayerButtonAlpha = 255
 
 PlayerWMax=580
 PlayerHMax=160
