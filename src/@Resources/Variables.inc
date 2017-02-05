@@ -154,12 +154,15 @@ PlayerName = AIMP
 PlayerButtonSize = 14
 PlayerButtonColor = #ColorCommon#
 PlayerButtonAlpha = 255
-PlayerFontColor = #ColorCommon#
-PlayerFontAlpha = 255
 PlayerButtonSpace = 10
 PlayerButtonPath = #ROOTCONFIGPATH#@Resources\Player
-PlayerPadding = -3
+PlayerFontColor = #ColorCommon#
+PlayerFontAlpha = 255
+PlayerPositionTextPadding = -3
 PlayerTextWidth = 300
+PlayerTitleFontSize = 14
+PlayerArtistFontSize = 10
+PlayerAlbumFontSize = 10
 
 ;CalendarStyle
 [CalendarStyle]
