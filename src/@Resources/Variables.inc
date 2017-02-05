@@ -151,12 +151,15 @@ BackgroundCirclePath = #ROOTCONFIGPATH#@Resources\Circle
 
 ;Player
 PlayerName = AIMP
+PlayerButtonSize = 14
 PlayerButtonColor = #ColorCommon#
 PlayerButtonAlpha = 255
-PlayerButtonOverAlpha = 100
 PlayerFontColor = #ColorCommon#
 PlayerFontAlpha = 255
-PlayerButtonSpace = 5
+PlayerButtonSpace = 10
+PlayerButtonPath = #ROOTCONFIGPATH#@Resources\Player
+PlayerPadding = -3
+PlayerTextWidth = 300
 
 ;CalendarStyle
 [CalendarStyle]
