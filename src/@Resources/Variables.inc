@@ -151,15 +151,16 @@ BackgroundCirclePath = #ROOTCONFIGPATH#@Resources\Circle
 
 ;Player
 PlayerName = AIMP
-PlayerButtonSize = 14
 PlayerButtonColor = #ColorCommon#
 PlayerButtonAlpha = 255
-PlayerButtonSpace = 10
-PlayerButtonPath = #ROOTCONFIGPATH#@Resources\Player
 PlayerFontColor = #ColorCommon#
 PlayerFontAlpha = 255
+PlayerButtonSize = 14
+PlayerButtonSpace = 10
+PlayerButtonPath = #ROOTCONFIGPATH#@Resources\Player
 PlayerPositionTextPadding = -3
 PlayerTextWidth = 300
+PlayerPositionFontSize = 12
 PlayerTitleFontSize = 14
 PlayerArtistFontSize = 10
 PlayerAlbumFontSize = 10
