@@ -9,6 +9,8 @@ AlphaTransparentForWhite = 100
 ;Common
 ColorCommon = #ColorWhite#
 Font = Open Sans
+;Language = ru
+Language = en
 
 ;App Icons
 AppSize = 32
@@ -65,7 +67,6 @@ ClockDateFontSize = 14
 ClockTimeAndDateWidth = 350
 ClockTimeAndDateLineHeight = 103
 ClockTimeAndDateXDate = -20
-ClockTranslate = "Monday":"Понедельник", "Tuesday":"Вторник", "Wednesday":"Среда", "Thursday":"Четверг", "Friday":"Пятница", "Saturday":"Суббота", "Sunday":"Воскресенье", "January":"Января", "February":"Февраля", "March":"Марта", "April":"Апреля", "May":"Мая", "June":"Июня", "July":"Июля", "August":"Августа", "September":"Сентября", "October":"Октября", "November":"Ноября", "December":"Декабря"
 ClockDialPath = #ROOTCONFIGPATH#@Resources\Clock Dials
 ClockDialFileName = Clock dial 14.png
 ClockDialSize = 128
@@ -74,8 +75,6 @@ ClockDialSize = 128
 ;Codes to take here: https://weather.codes/
 Location = RSXX0267:1:RS
 WeatherUpdate = 5000
-Language = "ru"
-LanguageSite = "ru-RU"
 WeatherAlpha = 255
 WeatherColor = #ColorCommon#,#WeatherAlpha#
 WeatherIconColor = #WeatherColor#
@@ -89,7 +88,6 @@ WeatherTempFontSize = 30
 WeatherDescFontSize = 10
 WeatherDayFontSize = 14
 WeatherIconSize = 50
-WeatherTranslate = "Now": "Сейчас", "Today":"Сегодня", "Tonight":"Ночью", "Tomorrow":"Завтра", "like":"как", "Monday":"Понедельник", "Tuesday":"Вторник", "Wednesday":"Среда", "Thursday":"Четверг", "Friday":"Пятница", "Saturday":"Суббота", "Sunday":"Воскресенье"
 
 ;Calendar
 CalendarColor = #ColorCommon#
@@ -106,32 +104,11 @@ CalendarHorizontalSpace = 10
 CalendarBackgroundWidth = 220
 CalendarWeekdaySpace = 25
 CalendarWeekdaySpaceAfter = 20
-;CalendarTranslate
-Mon = ПН
-Tue = ВТ
-Wed = СР
-Thu = ЧТ
-Fri = ПТ
-Sat = СБ
-Sun = ВС
-January = Январь
-February = Февраль
-March = Март
-April = Апрель
-May = Май
-June = Июнь
-July = Июль
-August = Август
-September = Сентябрь
-October = Октябрь
-November = Ноябрь
-December = Декабрь
 
 ;Info
 InfoColor = #ColorCommon#
 InfoFontAlpha = 255
 InfoFontSize = 10
-InfoTranslate = "cores":"ядра"
 InfoCPURAMUptimeWidth = 220
 InfoCPURAMUptimeHeight = 70
 InfoCPURAMUptimeLineHeight = 20
