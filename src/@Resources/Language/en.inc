@@ -5,7 +5,7 @@ ClockTranslate = "Monday":"Monday", "Tuesday":"Tuesday", "Wednesday":"Wednesday"
 
 ;Weather
 Language = "en"
-LanguageSite = "en-EN"
+LanguageSite = "en"
 WeatherTranslate = "Now": "Now", "Today":"Today", "Tonight":"Tonight", "Tomorrow":"Tomorrow", "like":"like", "Monday":"Monday", "Tuesday":"Tuesday", "Wednesday":"Wednesday", "Thursday":"Thursday", "Friday":"Friday", "Saturday":"Saturday", "Sunday":"Sunday"
 
 ;Calendar
