@@ -55,6 +55,7 @@ Skype = C:\Program Files (x86)\Skype\Phone\Skype.exe
 Skyrim = C:\Program Files (x86)\Steam\steamapps\common\Skyrim\SkyrimLauncher.exe
 Steam = C:\Program Files (x86)\Steam\Steam.exe
 uTorrent = C:\Users\sensor\AppData\Roaming\uTorrent\uTorrent.exe
+OneDrive = C:\Users\sensor\AppData\Local\Microsoft\OneDrive\OneDrive.exe
 
 ;Clock
 ClockTextAlpha = 255
