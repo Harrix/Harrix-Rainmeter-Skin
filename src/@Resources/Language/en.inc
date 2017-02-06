@@ -9,13 +9,13 @@ LanguageSite = "en"
 WeatherTranslate = "Now": "Now", "Today":"Today", "Tonight":"Tonight", "Tomorrow":"Tomorrow", "like":"like", "Monday":"Monday", "Tuesday":"Tuesday", "Wednesday":"Wednesday", "Thursday":"Thursday", "Friday":"Friday", "Saturday":"Saturday", "Sunday":"Sunday"
 
 ;Calendar
-Mon = Mon
-Tue = Tue
-Wed = Wed
-Thu = Thu
-Fri = Fri
-Sat = Sat
-Sun = Sun
+Mon = MO
+Tue = TU
+Wed = WE
+Thu = TH
+Fri = FR
+Sat = SA
+Sun = SU
 January = January
 February = February
 March = March
