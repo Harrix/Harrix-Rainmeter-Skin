@@ -9,8 +9,8 @@ AlphaTransparentForWhite = 100
 ;Common
 ColorCommon = #ColorWhite#
 Font = Open Sans
-Language = en
-;Language = ru
+;Language = en
+Language = ru
 ;Language = de
 
 ;App Icons
