@@ -8,7 +8,7 @@ AlphaTransparentForWhite = 100
 
 ;Common
 ColorCommon = #ColorWhite#
-Font = Open Sans
+Font = Roboto
 ;Language = en
 Language = ru
 ;Language = de
@@ -33,11 +33,11 @@ AdobeLightroom = C:\Program Files\Adobe\Adobe Lightroom\lightroom.exe
 AdobePhotoshop = C:\Program Files\Adobe\Adobe Photoshop CC 2017\Photoshop.exe
 AdobePremierePro = C:\Program Files\Adobe\Adobe Premiere Pro CC 2017\Adobe Premiere Pro.exe
 Aimp = C:\Program Files (x86)\AIMP\AIMP.exe
-AndroidStudio = C:\Android\Android Studio\bin\studio64.exe
-Atom = C:\Users\Harrix\AppData\Local\atom\atom.exe
+AndroidStudio = D:\Android\Android Studio\bin\studio64.exe
+Atom = C:\Users\User\AppData\Local\atom\atom.exe
 Dropbox = C:\Program Files (x86)\Dropbox\Client\Dropbox.exe
 FastStoneCapture = C:\Program Files (x86)\FastStone Capture\FSCapture.exe
-GitHub = C:\Users\Harrix\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\GitHub, Inc\GitHub.appref-ms
+GitHub = C:\Users\User\AppData\Local\GitHubDesktop\GitHubDesktop.exe
 GoogleChrome = C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
 KeePass = D:\Harrix\Dropbox\Programs\KeePass\KeePass.exe
 MicrosoftAccess = C:\Program Files (x86)\Microsoft Office\root\Office16\MSACCESS.EXE
@@ -49,17 +49,17 @@ MicrosoftPublisher = C:\Program Files (x86)\Microsoft Office\root\Office16\MSPUB
 MicrosoftVisio =
 MicrosoftWord = C:\Program Files (x86)\Microsoft Office\root\Office16\WINWORD.EXE
 Notepad = C:\Program Files (x86)\Notepad++\notepad++.exe
-OneDrive = C:\Users\Harrix\AppData\Local\Microsoft\OneDrive\OneDrive.exe
-Qt = C:\Qt\Qt5.8.0_mingw_android\Tools\QtCreator\bin\qtcreator.exe
+OneDrive = C:\Users\User\AppData\Local\Microsoft\OneDrive\OneDrive.exe
+Qt = C:\Qt\Qt5.9.1\Tools\QtCreator\bin\qtcreator.exe
 QtUnderVisualStudio = C:\Qt\Qt5.8.0\Tools\QtCreator\bin\qtcreator.exe
 SQLite = D:\Harrix\Dropbox\Programs\PortableSQLliteBrowser\SQLiteDatabaseBrowserPortable.exe
 Skype = C:\Program Files (x86)\Skype\Phone\Skype.exe
 Skyrim = C:\Program Files (x86)\Steam\steamapps\common\Skyrim\SkyrimLauncher.exe
 Steam = C:\Program Files (x86)\Steam\Steam.exe
-TotalCommander = C:\Program Files (x86)\Total Commander\TOTALCMD64.EXE
-VisualStudio = C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\devenv.exe
-uTorrent = C:\Users\Harrix\AppData\Roaming\uTorrent\uTorrent.exe
-IntelliJIDEA = C:\Program Files (x86)\JetBrains\IntelliJ IDEA Community Edition 2016.3.4\bin\idea.exe
+TotalCommander = C:\Program Files (x86)\Total Commander\TOTALCMD.EXE
+VisualStudio = C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\devenv.exe
+uTorrent = C:\Users\User\AppData\Roaming\uTorrent\uTorrent.exe
+IntelliJIDEA = C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2017.1.2\bin\idea64.exe
 
 ;Clock
 ClockTextAlpha = 255
