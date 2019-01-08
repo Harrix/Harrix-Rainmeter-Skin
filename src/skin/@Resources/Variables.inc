@@ -59,7 +59,7 @@ Steam = C:\Program Files (x86)\Steam\Steam.exe
 TotalCommander = C:\Total Commander\TOTALCMD64.EXE
 VisualStudio = C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\devenv.exe
 uTorrent = C:\Users\User\AppData\Roaming\uTorrent\uTorrent.exe
-IntelliJIDEA = C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2018.2.3\bin\idea64.exe
+IntelliJIDEA = C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2018.3\bin\idea64.exe
 
 ;Clock
 ClockTextAlpha = 255
