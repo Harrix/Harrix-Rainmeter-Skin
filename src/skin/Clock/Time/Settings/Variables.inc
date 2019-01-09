@@ -1,6 +1,6 @@
 [Variables]
 Color=ffffff
-PercentOpacity=100
+PercentOpacity=75
 FontSize=70
 FontWeight=400
 FontFace=Roboto
