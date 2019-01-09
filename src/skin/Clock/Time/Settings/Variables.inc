@@ -1,4 +1,4 @@
 [Variables]
-Color=ff9933
-PercentOpacity=50
+Color=ffffff
+PercentOpacity=100
 FontSize=11
