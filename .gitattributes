@@ -1,2 +1,1 @@
-[attr]utf16 diff merge -crlf
-*.lua utf16
+*.lua diff
