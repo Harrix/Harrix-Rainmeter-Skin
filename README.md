@@ -6,6 +6,7 @@ White skin for [Rainmeter](https://www.rainmeter.net/).
 
 - [Audio Dimensia III](https://www.deviantart.com/eclectic-tech/art/Audio-Dimensia-III-736494291) — the style of the settings.
 - [RainRGB](https://forum.rainmeter.net/viewtopic.php?t=6215) - the color picker.
+- [FrostedGlass](https://github.com/TheAzack9/FrostedGlass) - using for a background.
 
 ## License
 
