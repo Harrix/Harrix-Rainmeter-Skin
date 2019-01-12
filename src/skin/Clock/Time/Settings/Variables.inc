@@ -1,5 +1,5 @@
 [Variables]
-Color=ffffff
+Color=FFFFFF
 PercentOpacity=100
 FontSize=70
 FontWeight=400

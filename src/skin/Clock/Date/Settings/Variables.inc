@@ -1,8 +1,8 @@
 [Variables]
-Color=282828
-PercentOpacity=40
-FontSize=60
-FontWeight=700
+Color=FFFFFF
+PercentOpacity=100
+FontSize=14
+FontWeight=400
 FontFace=Roboto
-Language=ru
-StringCase=Lower
+Language=en
+StringCase=None
