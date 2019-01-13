@@ -1,7 +1,7 @@
 [Variables]
 Color=FFFFFF
 PercentOpacity=100
-FontSize=70
+FontSize=14
 FontSizeDate=14
 LineHeight=0
 FontWeight=400
