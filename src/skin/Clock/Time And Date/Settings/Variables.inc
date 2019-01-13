@@ -1,7 +1,9 @@
 [Variables]
 Color=FFFFFF
 PercentOpacity=100
-FontSize=14
+FontSize=30
+FontSizeDate=14
+LineHeight=0
 FontWeight=400
 FontFace=Roboto
 Language=en
