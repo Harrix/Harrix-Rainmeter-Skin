@@ -1,7 +1,14 @@
-function ConvertPercentToHex(percent) -- Converts percent of opacity to HEX alpha
+function ConvertPercentToHex(percent)
   return ('%02X'):format(math.floor(255 * percent / 100))
 end
 
-function ConvertPercentToDec(percent) -- Converts percent of opacity to DEC alpha
+function ConvertPercentToDec(percent)
   return math.floor(255 * percent / 100)
+end
+
+function ConvertYesNoToNumber(value)
+  if value == 'Yes' then
+    return 1
+  end
+  return 0
 end
