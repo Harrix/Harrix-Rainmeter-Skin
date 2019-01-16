@@ -11,3 +11,10 @@ function GetColorName(color)
   end
   return color
 end
+
+function GetColorNameForInput(color)
+  if color == 'Colorful' then
+    return color
+  end
+  return '#'..color
+end
