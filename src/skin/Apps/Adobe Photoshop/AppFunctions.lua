@@ -1,8 +1,9 @@
-function GetIconName(color)
+function GetIconName(color, icon)
+  iconPrefix = string.gsub(icon, "icon", "")
   if string.match(color, 'color') then
-    return 'icon_'..color..'.png'
+    return 'icon'..iconPrefix..'_'..color..'.png'
   end
-  return 'icon.png'
+  return 'icon'..iconPrefix..'.png'
 end
 
 function GetColorName(color)
