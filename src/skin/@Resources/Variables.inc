@@ -13,16 +13,6 @@ Font = Roboto
 Language = ru
 ;Language = de
 
-;App Icons
-AppSize = 32
-AppAlpha = 255
-AppColor = #ColorCommon#
-;AppIconName = icon.png
-AppIconName = icon_color.png
-AppX = 10
-AppY = 10
-
-AdobeAfterEffects = C:\Program Files\Adobe\Adobe After Effects CC 2018\Support Files\AfterFX.exe
 AdobeAudition = C:\Program Files\Adobe\Adobe Audition CC 2018\Adobe Audition CC.exe
 AdobeBridge = C:\Program Files\Adobe\Adobe Bridge CC 2018\Bridge.exe
 AdobeDreamweaver = C:\Program Files\Adobe\Adobe Dreamweaver CC 2018\Dreamweaver.exe
@@ -30,7 +20,6 @@ AdobeFlashProfessional = C:\Program Files (x86)\Adobe\Adobe Flash CS6\Flash.exe
 AdobeIllustrator = C:\Program Files\Adobe\Adobe Illustrator CC 2018\Support Files\Contents\Windows\Illustrator.exe
 AdobeInDesign = C:\Program Files\Adobe\Adobe InDesign CC 2018\InDesign.exe
 AdobeLightroom = C:\Program Files\Adobe\Adobe Lightroom Classic CC\Lightroom.exe
-AdobePhotoshop = C:\Program Files\Adobe\Adobe Photoshop CC 2018\Photoshop.exe
 AdobePremierePro = C:\Program Files\Adobe\Adobe Premiere Pro CC 2018\Adobe Premiere Pro.exe
 Aimp = C:\Program Files (x86)\AIMP\AIMP.exe
 AndroidStudio = D:\Android\Android Studio\bin\studio64.exe
@@ -47,7 +36,6 @@ MicrosoftOutlook = C:\Program Files (x86)\Microsoft Office\root\Office16\OUTLOOK
 MicrosoftPowerPoint = C:\Program Files (x86)\Microsoft Office\root\Office16\POWERPNT.EXE
 MicrosoftPublisher = C:\Program Files (x86)\Microsoft Office\root\Office16\MSPUB.EXE
 MicrosoftVisio =
-MicrosoftWord = C:\Program Files (x86)\Microsoft Office\root\Office16\WINWORD.EXE
 Notepad = C:\Program Files (x86)\Notepad++\notepad++.exe
 OneDrive = C:\Users\User\AppData\Local\Microsoft\OneDrive\OneDrive.exe
 Qt = D:\Qt\Tools\QtCreator\bin\qtcreator.exe
@@ -60,18 +48,6 @@ TotalCommander = C:\Total Commander\TOTALCMD64.EXE
 VisualStudio = C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\devenv.exe
 uTorrent = C:\Users\User\AppData\Roaming\uTorrent\uTorrent.exe
 IntelliJIDEA = C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2018.3\bin\idea64.exe
-
-;Clock
-ClockTextAlpha = 255
-ClockColor = #ColorCommon#,#ClockTextAlpha#
-ClockTimeFontSize = 70
-ClockDateFontSize = 14
-ClockTimeAndDateWidth = 350
-ClockTimeAndDateLineHeight = 103
-ClockTimeAndDateXDate = -10
-ClockDialPath = #ROOTCONFIGPATH#@Resources\Clock Dials
-ClockDialFileName = Clock dial 14.png
-ClockDialSize = 128
 
 ;Weather
 ;Codes to take here: https://weather.codes/
