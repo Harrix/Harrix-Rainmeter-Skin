@@ -13,9 +13,6 @@ Font = Roboto
 Language = ru
 ;Language = de
 
-AdobeAudition = C:\Program Files\Adobe\Adobe Audition CC 2018\Adobe Audition CC.exe
-AdobeBridge = C:\Program Files\Adobe\Adobe Bridge CC 2018\Bridge.exe
-AdobeDreamweaver = C:\Program Files\Adobe\Adobe Dreamweaver CC 2018\Dreamweaver.exe
 AdobeFlashProfessional = C:\Program Files (x86)\Adobe\Adobe Flash CS6\Flash.exe
 AdobeInDesign = C:\Program Files\Adobe\Adobe InDesign CC 2018\InDesign.exe
 AdobeLightroom = C:\Program Files\Adobe\Adobe Lightroom Classic CC\Lightroom.exe
