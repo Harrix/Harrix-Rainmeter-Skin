@@ -1,6 +1,6 @@
 [Variables]
-App=Adobe InDesign
-Path=C:\Program Files\Adobe\Adobe InDesign CC 2018\InDesign.exe
+App=Adobe Lightroom
+Path=C:\Program Files\Adobe\Adobe Lightroom Classic CC\Lightroom.exe
 Color=color
 Icon=icon1
 PercentOpacity=100
