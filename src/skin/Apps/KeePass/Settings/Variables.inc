@@ -1,6 +1,6 @@
 [Variables]
 App=KeePass
-Path=D:\Harrix\Dropbox\Programs\KeePass\KeePass.ex
+Path=D:\Harrix\Dropbox\Programs\KeePass\KeePass.exe
 Color=color
 Icon=icon1
 PercentOpacity=100
