@@ -1,0 +1,11 @@
+[Variables]
+App=KeePass
+Path=D:\Harrix\Dropbox\Programs\KeePass\KeePass.ex
+Color=color
+Icon=icon1
+PercentOpacity=100
+Size=32
+MarginTop=10
+MarginBottom=0
+MarginLeft=0
+MarginRight=10
