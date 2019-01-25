@@ -13,17 +13,6 @@ Font = Roboto
 Language = ru
 ;Language = de
 
-AdobeFlashProfessional = C:\Program Files (x86)\Adobe\Adobe Flash CS6\Flash.exe
-AdobeInDesign = C:\Program Files\Adobe\Adobe InDesign CC 2018\InDesign.exe
-AdobeLightroom = C:\Program Files\Adobe\Adobe Lightroom Classic CC\Lightroom.exe
-AdobePremierePro = C:\Program Files\Adobe\Adobe Premiere Pro CC 2018\Adobe Premiere Pro.exe
-Aimp = C:\Program Files (x86)\AIMP\AIMP.exe
-AndroidStudio = D:\Android\Android Studio\bin\studio64.exe
-Atom = C:\Users\User\AppData\Local\atom\atom.exe
-Dropbox = C:\Program Files (x86)\Dropbox\Client\Dropbox.exe
-FastStoneCapture = C:\Program Files (x86)\FastStone Capture\FSCapture.exe
-GitHub = C:\Users\sergi\AppData\Local\GitHubDesktop\GitHubDesktop.exe
-GoogleChrome = C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
 KeePass = D:\Harrix\Dropbox\Programs\KeePass\KeePass.exe
 Notepad = C:\Program Files (x86)\Notepad++\notepad++.exe
 OneDrive = C:\Users\User\AppData\Local\Microsoft\OneDrive\OneDrive.exe
