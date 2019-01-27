@@ -9,23 +9,7 @@ AlphaTransparentForWhite = 100
 ;Common
 ColorCommon = #ColorWhite#
 Font = Roboto
-;Language = en
 Language = ru
-;Language = de
-
-KeePass = D:\Harrix\Dropbox\Programs\KeePass\KeePass.exe
-Notepad = C:\Program Files (x86)\Notepad++\notepad++.exe
-OneDrive = C:\Users\User\AppData\Local\Microsoft\OneDrive\OneDrive.exe
-Qt = D:\Qt\Tools\QtCreator\bin\qtcreator.exe
-QtUnderVisualStudio = C:\Qt\Qt5.8.0\Tools\QtCreator\bin\qtcreator.exe
-SQLite = D:\Harrix\Dropbox\Programs\DB Browser for SQLite\SQLiteDatabaseBrowserPortable.exe
-Skype = C:\Program Files (x86)\Skype\Phone\Skype.exe
-Skyrim = C:\Program Files (x86)\Steam\steamapps\common\Skyrim\SkyrimLauncher.exe
-Steam = C:\Program Files (x86)\Steam\Steam.exe
-TotalCommander = C:\Total Commander\TOTALCMD64.EXE
-VisualStudio = C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\devenv.exe
-uTorrent = C:\Users\User\AppData\Roaming\uTorrent\uTorrent.exe
-IntelliJIDEA = C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2018.3\bin\idea64.exe
 
 ;Weather
 ;Codes to take here: https://weather.codes/
