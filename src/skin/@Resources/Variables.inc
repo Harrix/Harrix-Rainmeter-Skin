@@ -45,17 +45,6 @@ CalendarBackgroundWidth = 220
 CalendarWeekdaySpace = 25
 CalendarWeekdaySpaceAfter = 20
 
-;Info
-InfoColor = #ColorCommon#
-InfoFontAlpha = 255
-InfoFontSize = 10
-InfoCPURAMUptimeWidth = 220
-InfoCPURAMUptimeHeight = 70
-InfoCPURAMUptimeLineHeight = 20
-InfoCPURAMLineHeight = 20
-InfoCPURAMLineHeightLarge = 25
-InfoFontSizeLarge = 14
-
 ;Background
 BackgroundColor = #ColorBlack#
 BackgroundAlpha = 70
@@ -96,13 +85,3 @@ W = #CalendarCellWidth#
 H = #CalendarCellHeight#
 X = (#CalendarCellWidth# + #CalendarHorizontalSpace#)r
 Y = r
-
-;InfoStyle
-[InfoStyle]
-FontColor = #InfoColor#,#InfoFontAlpha#
-FontFace = #Font#
-FontSize = #InfoFontSize#
-StringAlign = Left
-StringStyle = Normal
-AntiAlias = 1
-DynamicVariables = 1
