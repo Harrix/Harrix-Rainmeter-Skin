@@ -1,0 +1,10 @@
+[Variables]
+Color=FFFFFF
+PercentOpacity=100
+FontSize=10
+Width=220
+LineHeight=3
+FontWeight=400
+FontFace=Roboto
+Language=ru
+StringCase=None
