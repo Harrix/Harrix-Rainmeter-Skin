@@ -2,9 +2,12 @@
 Color=FFFFFF
 PercentOpacity=100
 FontSize=10
-Width=220
+Width=200
 LineHeight=3
 FontWeight=400
 FontFace=Roboto
-Language=ru
+Language=en
 StringCase=None
+HideCPU=No
+HideRAM=No
+HideUptime=No
