@@ -12,3 +12,10 @@ function ConvertYesNoToNumber(value)
   end
   return 0
 end
+
+function MainStringOrWithAdditional(mainString, additionalString, hideAdditional)
+  if hideAdditional == 'No' then
+    return mainString..' '..additionalString
+  end
+  return mainString
+end
