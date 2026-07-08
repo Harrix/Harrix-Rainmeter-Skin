@@ -29,22 +29,6 @@ WeatherDescFontSize = 10
 WeatherDayFontSize = 14
 WeatherIconSize = 50
 
-;Calendar
-CalendarColor = #ColorCommon#
-CalendarTodayColor = #ColorCommon#
-CalendarTodayAlpha = 70
-CalendarNotCurrentMonthAlpha = 100
-CalendarCurrentMonthAlpha = 255
-CalendarFontAlpha = 255
-CalendarFontSize = 10
-CalendarWeekStartsMonday = 1
-CalendarCellWidth = 20
-CalendarCellHeight = 20
-CalendarHorizontalSpace = 10
-CalendarBackgroundWidth = 220
-CalendarWeekdaySpace = 25
-CalendarWeekdaySpaceAfter = 20
-
 ;Background
 BackgroundColor = #ColorBlack#
 BackgroundAlpha = 70
@@ -71,17 +55,3 @@ PlayerPositionFontSize = 12
 PlayerTitleFontSize = 14
 PlayerArtistFontSize = 10
 PlayerAlbumFontSize = 10
-
-;CalendarStyle
-[CalendarStyle]
-FontColor = #CalendarColor#,#CalendarFontAlpha#
-FontFace = #Font#
-FontSize = #CalendarFontSize#
-StringStyle = Normal
-AntiAlias = 1
-DynamicVariables = 1
-StringAlign = Right
-W = #CalendarCellWidth#
-H = #CalendarCellHeight#
-X = (#CalendarCellWidth# + #CalendarHorizontalSpace#)r
-Y = r
